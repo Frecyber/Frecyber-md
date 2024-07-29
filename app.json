@@ -1,5 +1,5 @@
 {
-  "name": "frecyber-md",
+  "name": "KINGSTON-md",
   "description": "Simple WhatsApp Bot",
   "repository": "https://github.com/Frecyber/Frecyber-md",
   "logo": "https://telegra.ph/file/957aab565af943d0c5109.jpg",
@@ -10,7 +10,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝔽ℝ𝔼𝔻𝕀𝔼_𝕋𝔼ℂℍ",
+      "value": "KINGSTON_𝕋𝔼ℂℍ",
       "required": true
     },
 
@@ -28,7 +28,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝔽ℝ𝔼ℂ𝕐𝔹𝔼ℝ 𝕄𝔻 𝔹𝕆𝕋"
+      "value": "KINGSTON 𝕄𝔻 𝔹𝕆𝕋"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -91,11 +91,11 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "255620814108,255764182801,255776663848"
+      "value": "255684419282,255764182801,255776663848"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ09JZXYxQkVrYWZ6bnhOdUovbGNRaW4yWVFzdlhoNEkrcFl6LzN1ZmtuYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZjdKbWJPN3UxK1UxcmtUNjB1YVgxS2czSlJ1dnJWUCthMkJwRnlLV2UxVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrSUpvZ0xSVVhBVzFoZGdqS0x6MVFKRWVBUHI5Sk81cmIxcWVKaFo0djNJPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJWUnlLVzVvdFNucWJxZzIzampUSWxId2hLZjRmOExZclI4VnJ0UWFRY0VrPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlFEU2E3QXBjcGNNUUZDUWphUFJydTJwVnh6NjlELzE5aTBlRXM5bVZFSGc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjRaRStKUTRZN2kxV1lkcFNmZDVHTmpNWnNXTlNRK2k3TGtiOU9KUmtwbFk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR0hzWTZpbjdZcllKSzd2WXNqMmc5VVppbGk3bVJISWJPY3loNzZ4WUVVST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRG52NDZSazRzR0RxSSt5WGFNTzJEeVBtcndNdGtaN1lNbzBZWkFha25GWT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjROUTZ1d0RwVk93VzBqL0RadzB4eStDdFVmUWNPSE82Qi9ubEJNaE9oWGpSQnVlT0I0WEZBWlZtQkVlSXJpOGZtUnJ3NUVmWENBaDNkT1RSZVZ5ZkFBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTMzLCJhZHZTZWNyZXRLZXkiOiJBM1JURXhmcGVpRmhPeXoyYytNSkQrZkFiOUsrYjRqdE5qVDY0NHdsZFFVPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjI1NTY4NDQxOTI4MkBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJDMzZCMkZGMzBDNzQ4N0FBNTY4RkY0QzMxQ0Q4Qzc0MiJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzIyMjY5NTE1fSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyNTU2ODQ0MTkyODJAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiMzAwNkY2MzgwRTg5OTMyOUYxQTVENDM2NzZGRTBBRTUifSwibWVzc2FnZVRpbWVzdGFtcCI6MTcyMjI2OTUxNX1dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiQlUxUVdQQWtSWmFYUUp2ZFoyOWR3ZyIsInBob25lSWQiOiJjNGYzMGIyNy1jZWI5LTRkZTgtYjI0Zi00NzhiYTU2NTIxMzgiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVVpUb3RLcFVBbkdRdkZtMlNINzBmRG0rNnNJPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlpiS0hrRXhOL0tiYi9WRjBCRFo0ZFkzTXNNOD0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiJaNjY0WVNXRSIsIm1lIjp7ImlkIjoiMjU1Njg0NDE5MjgyOjZAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoidGVzaGFlbW1hbnVlbDcxMiJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTzNRcnZZREVMbituclVHR0FZZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiVEkvd0pvUHMxZWNPRFJ3WVhiVW5UVHpwNmExQmd4bXVZb0RhT0J2RnRtdz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiVXgrMGJCRFNrcmNieldEb2xxbDNuYXA1MXhFMU01WFYzbXdHcW5TK00zaTBORi9pKzJCMTRRQ2g2ZjF0SnRyQkRFSkZGU2UrNzkvQ09qYlpYTDRnQVE9PSIsImRldmljZVNpZ25hdHVyZSI6IkI3RUg1WjZlNFd4MU5GZEU0dHArb1VlNDI0aURHdElaUDcxa1pzOHpmamZOcVF0cE5rQm9OSmlrSFlOVTloNnFzbTMreE5YZDYyNTk4SEJqUUlIWkR3PT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU1Njg0NDE5MjgyOjZAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCVXlQOENhRDdOWG5EZzBjR0YyMUowMDg2ZW10UVlNWnJtS0EyamdieGJacyJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMjI2OTUxMSwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFMTmwifQ=="
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -103,12 +103,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "FRECYBER",
+      "value": "KINGSTON",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "FREDIE TECH",
+      "value": "KINGSTON TECH",
       "required": false
     }
   },
